@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumedh Dongre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An AI-Enthusiast</h3>
 
 <center>
  <img src="https://itchronicles.com/wp-content/uploads/2020/11/where-is-ai-used-1024x683.jpg.webp">
