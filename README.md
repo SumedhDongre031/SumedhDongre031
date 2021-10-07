@@ -1,5 +1,6 @@
-<img src="https://static.scientificamerican.com/sciam/cache/file/533C0D4A-694D-4020-BF7A41F0E18A0D13_source.jpg?w=590&h=800&71B25B16-B4A4-4B8F-ACF127F3C6DDC5E8" alt="">
-<h1 align="center">Hi 👋, I'm Sumedh Dongre</h1>
+<center><img src="https://static.scientificamerican.com/sciam/cache/file/533C0D4A-694D-4020-BF7A41F0E18A0D13_source.jpg?w=590&h=800&71B25B16-B4A4-4B8F-ACF127F3C6DDC5E8" alt="">
+</center>
+ <h1 align="center">Hi 👋, I'm Sumedh Dongre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhdongre031&label=Profile%20views&color=0e75b6&style=flat" alt="sumedhdongre031" /> </p>
