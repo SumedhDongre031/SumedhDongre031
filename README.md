@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fhealth-care-ai-systems-are-biased%2F&psig=AOvVaw3zJrGnBzfHV9O3GhXuXMuR&ust=1633707866994000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiL353SuPMCFQAAAAAdAAAAABAD" alt="">
+<img src="https://static.scientificamerican.com/sciam/cache/file/533C0D4A-694D-4020-BF7A41F0E18A0D13_source.jpg?w=590&h=800&71B25B16-B4A4-4B8F-ACF127F3C6DDC5E8" alt="">
 <h1 align="center">Hi 👋, I'm Sumedh Dongre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
