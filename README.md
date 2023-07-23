@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/darklord_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/darklord_31" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/sumedh-dongre-5234871b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sumedh-dongre-5234871b4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumedh-dongre-5234871b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[234871b4](https://www.linkedin.com/in/sumedh-dongre-5234871b4/)" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100007204756331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007204756331" height="30" width="40" /></a>
 <a href="https://instagram.com/its.just._.sumedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.just._.sumedh" height="30" width="40" /></a>
 </p>
