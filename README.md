@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumedh Dongre</h1>
-<h3 align="center">An AI-Enthusiast</h3>
+![Header](./github-header-image(2).png)
 <img align = "right" alt = "Coding Gif" height = 363 src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhdongre031&label=Profile%20views&color=0e75b6&style=flat" alt="sumedhdongre031" /> </p>
 
