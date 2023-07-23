@@ -1,4 +1,5 @@
-![Header](./github-header-image(2).png)
+![Header](https://github.com/SumedhDongre031/SumedhDongre031/blob/794e570c37a3210ed97adcfdd61855da2dea2477/github-header-image%20(2).png) 
+
 <img align = "right" alt = "Coding Gif" height = 363 src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhdongre031&label=Profile%20views&color=0e75b6&style=flat" alt="sumedhdongre031" /> </p>
 
