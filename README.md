@@ -1,6 +1,16 @@
 
 ![Header](https://github.com/SumedhDongre031/SumedhDongre031/blob/794e570c37a3210ed97adcfdd61855da2dea2477/github-header-image%20(2).png) 
 [![An image of @sumedh_dongre031's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumedh_dongre031)](https://holopin.io/@sumedh_dongre031)
+<h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
+
+<!--START_SECTION:badges-->
+[![Job Application Essentials](https://images.credly.com/size/150x150/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](https://www.credly.com/badges/a7f8af55-0e25-4935-8cfb-81cf6433d23e/public_url)
+[![Google IT Automation with Python Professional Certificate](https://images.credly.com/size/150x150/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/0e8c741b-c44e-4309-9494-375cf520ccd2/public_url)
+
+<!--END_SECTION:badges-->
+
 <img align = "right" alt = "Coding Gif" height = 363 src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhdongre031&label=Profile%20views&color=0e75b6&style=flat" alt="sumedhdongre031" /> </p>
 
