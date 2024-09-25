@@ -3,7 +3,7 @@
 [![An image of @sumedh_dongre031's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumedh_dongre031)](https://holopin.io/@sumedh_dongre031)
 <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
-To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
+To see all the other badges are [here]([https://www.credly.com/users/pemtajo/badges](https://www.credly.com/users/sumedh-dongre))
 
 <!--START_SECTION:badges-->
 [![Job Application Essentials](https://images.credly.com/size/150x150/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](https://www.credly.com/badges/a7f8af55-0e25-4935-8cfb-81cf6433d23e/public_url)
