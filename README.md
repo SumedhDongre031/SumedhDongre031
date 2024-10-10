@@ -6,7 +6,7 @@
 To see all the other badges are [here](https://www.credly.com/users/sumedh-dongre/badges)
 
 <!--START_SECTION:badges-->
-[![Job Application Essentials](https://images.credly.com/size/150x150/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](https://www.credly.com/badges/a7f8af55-0e25-4935-8cfb-81cf6433d23e/public_url)
+[![Job Application Essentials](https://images.credly.com/size/120x120/images/7ae738cc-d7af-45fd-ad53-3e21666cdeca/Job_Application_Essentials.png)](https://www.credly.com/badges/a7f8af55-0e25-4935-8cfb-81cf6433d23e/public_url)
 [![Google IT Automation with Python Professional Certificate](https://images.credly.com/size/150x150/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/0e8c741b-c44e-4309-9494-375cf520ccd2/public_url)
 [![Google Advanced Data Analytics](https://images.credly.com/size/150x150/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)](https://www.credly.com/badges/72b47805-2dbd-4c16-9476-d5bbd788a1bf/public_url)
 
